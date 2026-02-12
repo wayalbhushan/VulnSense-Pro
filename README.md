@@ -1,4 +1,4 @@
-# VulnSense Pro v3.5 🛡️
+# VulnSense Pro 🛡️
 **Enterprise-Grade Network Auditor & IDS with Real-time Entropy Analysis.**
 
 VulnSense Pro is a security tool designed for real-time network auditing, credential leak detection, and DNS exfiltration monitoring. It features a professional Terminal User Interface (TUI) and uses mathematical entropy analysis to detect stealthy data exfiltration.
