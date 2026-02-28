@@ -9,7 +9,7 @@ VulnSense Pro is a security tool designed for real-time network auditing, creden
 - **Sensitive Data Sniffer:** Regex-based detection for JWT, AWS Keys, and HTTP credentials.
 - **Enterprise TUI:** Professional dashboard built with the `rich` library.
 ## Dashboard View 
- ![Dashboard(./Dashboard.png)##
+ ![Dashboard](./Dashboard.png)
 ```bash
 # Run the master deployer
 sudo ./scripts/vulnsense.sh
