@@ -1,6 +1,9 @@
-.venv/
+# Python
 __pycache__/
-*.csv
-*.json
+*.py[cod]
+.venv/
+
+# Project Specific
+reports/*.csv
 *.log
 .DS_Store
