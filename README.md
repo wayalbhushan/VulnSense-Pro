@@ -8,7 +8,8 @@ VulnSense Pro is a security tool designed for real-time network auditing, creden
 - **Shannon Entropy Engine:** Detects 0-day DNS tunnels by analyzing subdomain randomness.
 - **Sensitive Data Sniffer:** Regex-based detection for JWT, AWS Keys, and HTTP credentials.
 - **Enterprise TUI:** Professional dashboard built with the `rich` library.
-
+## Dashboard View 
+./Dashboard.png
 ## 🛠️ Usage
 ```bash
 # Run the master deployer
