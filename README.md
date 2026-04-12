@@ -18,4 +18,4 @@ sudo ./scripts/vulnsense.sh
 ## 🧠 Technical Highlights
 - **Engine:** Python 3.9+ / Scapy
 - **UI:** Threaded Rendering with Rich Layouts
-- **Math:** Shannon Entropy for 0-day tunnel detection.
+- **Math:** Shannon Entropy for 0 day tunnel detection.
